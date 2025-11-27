@@ -44,12 +44,9 @@ Sand<BOX_W, BOX_H> box;
 #include "Timer.h"
 Timer fall_tmr, disp_tmr;
 
-// ============== ВАШ КОД ==============
-// функция вызывается при каждом "проталкивании" песчинки
 void onSandPush() {
 }
 
-// функция вызывается, когда песок закончился
 void onSandEmpty() {
 }
 
